@@ -1,2 +1,1 @@
 # QQ-NT
-QQ-NT
